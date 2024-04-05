@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdivinarFuturo", "AdivinarFuturo\AdivinarFuturo.vcxproj", "{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Debug|x64.ActiveCfg = Debug|x64
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Debug|x64.Build.0 = Debug|x64
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Debug|x86.Build.0 = Debug|Win32
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Release|x64.ActiveCfg = Release|x64
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Release|x64.Build.0 = Release|x64
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Release|x86.ActiveCfg = Release|Win32
+		{FDEDF4B8-738D-484F-8FD6-C0001F62E64D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF3ABC9-3D1F-4A03-88ED-2374DC956BF1}
+	EndGlobalSection
+EndGlobal
